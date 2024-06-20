@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/oak_slab",
+
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "minecraft:block/wooden_box"}
+  ]
+  
+}
