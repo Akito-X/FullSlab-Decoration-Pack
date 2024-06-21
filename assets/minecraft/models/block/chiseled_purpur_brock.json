@@ -1,0 +1,7 @@
+{   "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "block/chiseled_purpur_brock_bottom",
+        "top": "block/chiseled_purpur_brock_top",
+        "side": "block/chiseled_purpur_brock_side"
+    }
+  }
