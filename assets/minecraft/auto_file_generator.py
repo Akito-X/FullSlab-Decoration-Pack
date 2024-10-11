@@ -69,7 +69,14 @@ save_json(additional_model_json, additional_model_file)
 
 # 3. テクスチャファイルのコピーとリネーム
 source_texture_dir = r"C:\Users\akito\MyFolder\Minecraft\Data\assets&data(1.21)\assets\minecraft\textures\block"
-source_texture_file = os.path.join(source_texture_dir, f"{original}.png")
+
+# originalが"_brick"で終わる場合は"_bricks"に変更
+if original.endswith("_brick"):
+    texture_name = original + "s"
+else:
+    texture_name = original
+    
+source_texture_file = os.path.join(source_texture_dir, f"{texture_name}.png")
 
 def copy_texture(src, dest):
     shutil.copyfile(src, dest)

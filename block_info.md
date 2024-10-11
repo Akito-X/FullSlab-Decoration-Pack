@@ -13,12 +13,14 @@
 - 赤いネザーレンガのハーフブロック(red_nether_brick_slab) -> 青いネザーレンガ(blur_nether_brick)
 
 ## タイル
-- ☆石レンガのハーフブロック(stone_brick_slab) -> 石タイル(stone_tile)
-- ☆苔むした石レンガのハーフブロック(mossy_stone_brick_slab) -> 苔むした石タイル(mossy_stone_tile)
-- ☆凝灰岩レンガのハーフブロック(tuff_brick_slab) -> 凝灰岩タイル(tuff_tile)
+- 石レンガのハーフブロック(stone_brick_slab) -> 石タイル(stone_tile)
+- 苔むした石レンガのハーフブロック(mossy_stone_brick_slab) -> 苔むした石タイル(mossy_stone_tile)
+- 凝灰岩レンガのハーフブロック(tuff_brick_slab) -> 凝灰岩タイル(tuff_tile)
 - 磨かれた花崗岩のハーフブロック(polished_granite_slab) -> 花崗岩タイル(granite_tile)
-- ☆ブラックストーンレンガのハーフブロック(blackstone_brick_slab) -> ブラックストーンタイル(blackstone_tile)
+- 磨かれたブラックストーンレンガのハーフブロック(polished_blackstone_brick_slab) -> ブラックストーンタイル(blackstone_tile)
 - クォーツのハーフブロック(quartz_slab) -> クォーツタイル(quartz_tile)
+- 滑らかなクォーツのハーフブロック(smooth_quartz_slab) -> 対掌なクォーツタイル(oppsite_quartz_tile)
+
 
 ## 柱
 - ☆磨かれた深層岩のハーフブロック(polished_deepslate_slab) -> 深層岩の柱(deepslate_pillar) 強化された深層岩を参考に
@@ -33,7 +35,7 @@
 - ☆深層岩の丸石のハーフブロック(cobble_deepslate_slab) -> 磨かれた深層岩の丸石(polished_cobblestone)
 - ☆砂岩のハーフブロック(sandstone_slab) -> 磨かれた砂岩(polished_sandstone)
 - ☆赤い砂岩のハーフブロック(red_sandstone_slab) -> 磨かれた赤い砂岩(polished_red_sandstone)
-- ☆プリズマリンのハーフブロック(prismarin_slab) -> 磨かれたプリズマリン(polished_prismarin)
+- プリズマリンのハーフブロック(prismarin_slab) -> 磨かれたプリズマリン(polished_prismarin)
 
 ## 研がれた～
 - ☆花崗岩のハーフブロック(granite_slab) -> 研がれた花崗岩(cut_granite)
