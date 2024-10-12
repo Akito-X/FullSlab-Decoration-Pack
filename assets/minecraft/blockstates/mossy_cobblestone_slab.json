@@ -1,13 +1,13 @@
 {
   "variants": {
     "type=bottom": {
-      "model": "minecraft:block/cobblestone_slab"
+      "model": "minecraft:block/mossy_cobblestone_slab"
     },
     "type=double": {
       "model": "minecraft:block/mossy_polished_cobblestone"
     },
     "type=top": {
-      "model": "minecraft:block/cobblestone_slab_top"
+      "model": "minecraft:block/mossy_cobblestone_slab_top"
     }
   }
 }

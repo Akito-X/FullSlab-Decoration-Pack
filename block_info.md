@@ -26,7 +26,7 @@
 - 磨かれた深層岩のハーフブロック(polished_deepslate_slab) -> 深層岩の柱(deepslate_pillar)
 - ☆滑らかな砂岩のハーフブロック(smooth_sandstone_slab) -> 砂岩の柱(sandstone_pillar)
 - ☆滑らかな赤い砂岩のハーフブロック(smooth_red_sandstone_slab) -> 赤い砂岩の柱(red_sandstone_pillar)
-- ☆磨かれた凝灰岩のハーフブロック(polished_tuff_slab) -> 凝灰岩の柱(tuff_pillar)
+- 磨かれた凝灰岩のハーフブロック(polished_tuff_slab) -> 凝灰岩の柱(tuff_pillar)
 - 磨かれたブラックストーンのハーフブロック(polished_blackstone_slab) -> ブラックストーンの柱(blackstone_pillar)
 
 ## 磨かれた～
